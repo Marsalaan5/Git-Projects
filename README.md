@@ -1,1 +1,1 @@
-# Git-Projects
+# JavaScript-Projects
